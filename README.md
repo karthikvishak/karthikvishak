@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Karthik
 
-<!--
-**karthikvishak/karthikvishak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+📊 Senior Data Analyst with 4+ years of experience
 
-Here are some ideas to get you started:
+💼 Experienced in data analysis, reporting, and business intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Learning and building projects with Python
+
+📈 Passionate about Excel automation and data visualization
+
+## 🛠️ Skills
+- Excel
+- SQL
+- Python
+- Power BI
+- Data Analysis
+
+## 📂 Featured Projects
+- Utility Bill Data Analysis
+- Oil & Gas Lease Analytics
+
+## 📫 Connect With Me
+- GitHub: @karthikvishak
+- LinkedIn: https://www.linkedin.com/in/karthik-vishak/
