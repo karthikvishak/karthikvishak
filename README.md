@@ -33,14 +33,6 @@
 - 📍 State-wise distribution | 📈 Adoption trends from 1997–2023
 - **Tools:** Excel, Pivot Tables, Power BI
 
----
-
-## 📊 GitHub Stats
-
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikvishak&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik%20Vishak-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karthik-vishak/)
