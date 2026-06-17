@@ -14,7 +14,7 @@
 - SQL
 - Python
 - Power BI
-- Data Analysis
+- Tableau
 
 ## 📂 Featured Projects
 - Utility Bill Data Analysis
